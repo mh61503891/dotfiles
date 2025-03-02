@@ -112,7 +112,14 @@ mas "Slack for Desktop", id: 803453959
 mas "SnippetsLab", id: 1006087419
 mas "ToyViewer", id: 414298354
 mas "UTM", id: 1538878817
+vscode "janisdd.vscode-edit-csv"
+vscode "mechatroner.rainbow-csv"
+vscode "ms-python.black-formatter"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
 vscode "ms-vscode-remote.remote-containers"
 vscode "ms-vscode-remote.remote-ssh"
 vscode "ms-vscode-remote.remote-ssh-edit"
 vscode "ms-vscode.remote-explorer"
+vscode "visualstudioexptteam.vscodeintellicode"
